@@ -19,6 +19,11 @@ var floornum = 0;
 var classtime = 1;
 var classday = new Date().getDay();
 
+
+function tap(num){
+
+}
+
 function floor(num)
 {
     floornum = num;

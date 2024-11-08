@@ -9,6 +9,7 @@ let floornum = 1;
 let container = document.getElementById("container");
 let h1 = document.getElementById("highlight");
 let h2 = document.getElementById("cls-highlight");
+let getTime = 0;
 
 h1.onanimationend = function () {
     h1.classList.remove("show");
@@ -162,4 +163,12 @@ function getDistance(touch1, touch2) {
     const y = touch1.pageY - touch2.pageY;
 
     return Math.sqrt(x * x + y * y);
+}
+
+function getSecond(getTime){
+    var oldTime = getTime;
+    var newTime = Date.now();
+    getTime = newTime - oldTime;
+
+    return getTime
 }
