@@ -297,7 +297,7 @@ div#info-text{
 }
 
 #info-btn{
-	visibility: hidden;
+	visibility: visible;
 }
 
 #info {
@@ -310,36 +310,21 @@ div#info-text{
 	margin: auto;
 	padding: 0.2rem 0.3rem;
 	font-weight: bold;
-	border: 2px solid #ec0303;
-	color: #f40404;
+	border: 2px solid #9f9f9f;
+	color: #9f9f9f;
 	user-select: none;
 	transition: 0.3s;
 	left:center;
 	bottom: center;
     z-index: 6;
+	top: -27;
 
 }
 #info:hover {
-	color: #df1717;
-	background: #f10606;
+	color: #9f9f9f;
+	background: #9f9f9f;
 }
 
-#btn-06 {
-	height:auto;
-	padding: 5px 10px 5px 5px;
-	background: rgba(0, 0, 0, 0.75);
-	position:fixed;
-	bottom: 1rem; right:1rem;
-	display: flex;
-	flex-flow: column;
-	justify-content: right;
-	z-index: 6;
-}
-
-#input{
-	width:75px; height: 2rem;
-	border: 2px solid #6699ff;
-}
 
 /* 使い方説明 */
 
