@@ -100,6 +100,31 @@ function clschange(num)
     }
 }
 
+function btn_set(){
+    for (let i = 101;i<=431;i++){
+        if(i == 154){
+            i = 201;
+        }
+        else if (i == 240){
+            i = 301;
+        }
+        else if(i == 340){
+            i = 401;
+        }
+        var btn_setX = document.getElementById("setX");
+        var btn_setY = document.getElementById("setY");
+        btn_setX = (data[i][2] + data[i][0]) / 2;
+        btn_setY = (data[i][3] + data[i][1]) / 2;
+        document.getElementById(setting_button);
+
+        var btn_sizeX = document.getElementById("sizeX");
+        var btn_sizeY = document.getElementById("sizeY");
+        btn_sizeX = data[i][2] - data[i][0];
+        btn_sizeY = data[i][3] - data[i][1];
+    }
+
+}
+
 function zoomin() {
     if (zoomlevel < 2) {
         zoomlevel += 0.05;
