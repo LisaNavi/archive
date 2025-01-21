@@ -274,10 +274,10 @@ a.btn_04:hover {
 div#information{
 	width: 50vw;
 	height: fit-content;
-	top: 0%; left:0%;	
-	background: rgb(61, 61, 61, 0.9);
+	top: -155px; left:0%;	
 	position: fixed;
 	visibility: hidden;
+	background: rgb(61, 61, 61, 0.9);
 	margin: 20% 25%;
 	z-index:10;
 	border-radius: 10px;
