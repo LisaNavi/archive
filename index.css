@@ -409,6 +409,12 @@ button:active {
 		width: 90%;
 		margin: 10% 5%;
 	}
+
+	#information.3d{
+		width: 100%
+		height: 100%
+	}
+
 }
 
 /* Animations */
