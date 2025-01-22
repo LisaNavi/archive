@@ -411,6 +411,8 @@ button:active {
 	}
 
 	#information.3d{
+		width: 100%
+		height: 100%
 	}
 
 }
