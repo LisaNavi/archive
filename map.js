@@ -23,16 +23,6 @@ function showup(rn)
 {
     room = rn;
     img.src = pictures[room[0] - 1]
-
-    // lefttop y - rightbottom y = height
-    
-    h1.style.width = ( data[room][2] - data[room][0] ) + "px";
-    h1.style.height = ( data[room][3] - data[room][1] ) + "px";
-    h1.style.left = data[room][0] + "px";
-    h1.style.top = data[room][1] + "px";
-    h1.style.visibility = "visible";
-    h1.classList.add("show");
-    h1.style.zIndex = 1;
 }
 
 // Change floor
@@ -40,28 +30,6 @@ function flchange(num)
 {
     floornum = num;
     img.src=pictures[floornum];
-    
-
-    // ハイライトと同じ階になったら表示
-    if (room != "" && room[0] == floornum+1)
-    {
-        if (h1.style.visibility == "hidden") {
-            // 大きさを計算して座標配置
-            h1.style.width = ( data[room][2] - data[room][0] ) + "px";
-            h1.style.height = ( data[room][3] - data[room][1] ) + "px";
-            h1.style.left = data[room][0] + "px";
-            h1.style.top = data[room][1] + "px";
-            h1.style.visibility = "visible";
-            h1.classList.add("show");
-            h1.style.zIndex = 1;
-        }
-    }
-    // 別の階になったら非表示
-    else
-    {
-        h1.classList.remove("show");
-        h1.style.visibility = "hidden";
-    }
 }
 function clschange(num)
 {
