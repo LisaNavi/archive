@@ -256,6 +256,14 @@ function ResizeFrame() {
     frame.style.width = sitewidth;
 }
 
+function ResizeFrame() {
+    // 画面幅にiframeの幅を合わせる
+    let frame = document.getElementById("3djpg");
+    let sitewidth = document.documentElement.clientWidth;
+    frame.style.width = sitewidth;
+}
+
+
 function Menu_Toggle() {
     let menu_panel = document.getElementById("menu");
     if (menu_panel.style.display == "none") {
