@@ -54,12 +54,7 @@ function search(num){
             map.contentWindow.showup(num);
             dis_number.textContent = num[0] + "F";
             dis_number.style.background=colors[num[0] - 1];
-            if (data[num][4] != undefined)
-                document.getElementById("info").style.visibility = "hidden";
-            if (data[num][4] != undefined)
-                document.getElementById("info-btn").style.visibility = "visible"
-            else
-                document.getElementById("info-btn").style.visibility = "none";
+            info(num)
         }
         
     }
