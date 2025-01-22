@@ -290,7 +290,7 @@ div#information{
 	color:#fff;
 	position: fixed;
 	visibility: hidden;
-	z-index:11;
+	z-index:4;
 	font-weight: bold;
 	text-align: center;
    
@@ -410,10 +410,10 @@ button:active {
 		margin: 10% 5%;
 	}
 
-#3djpg{
-	width:90%;
-	margin:10%,5%;
-}
+	#information.3d{
+		width: 90%;
+		margin: 10% 50%;
+	}
 
 }
 
