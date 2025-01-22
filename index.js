@@ -142,7 +142,7 @@ function ResizeFrame() {
 
 function ResizeFrame() {
     // 画面幅にiframeの幅を合わせる
-    let frame = document.getElementById("3djpg");
+    let frame = document.getElementById("3d");
     let sitewidth = document.documentElement.clientWidth;
     frame.style.width = sitewidth;
 }
