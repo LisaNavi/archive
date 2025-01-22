@@ -134,6 +134,7 @@ div.booth-item button {
 	width: 5rem;
 	padding: 0.5rem 10px;
 	margin: 0 auto;
+	vertical-align: top;
 }
 
 /* UI */
