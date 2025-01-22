@@ -2,7 +2,7 @@
 data={'101': [1451,63,1548,170,"https://lisanavi.github.io/archive/360img/3dhtml/101d.html"], // 左から順に 左上のx座標、y座標。右下のx座標、y座標、説明
   '102': [1451,205,1546,276, "https://lisanavi.github.io/archive/360img/3dhtml/102d.html"],
   '103': [1230,38,1454,171, "https://lisanavi.github.io/archive/360img/3dhtml/103d.html"],
-  '104': [974,86,1073,171, "https://lisanavi.github.io/archive/360img/room/104d.html"],
+  '104': [974,86,1073,171, "https://lisanavi.github.io/archive/360img/3dhtml/104d.html"],
   '105': [946,87,977,153,"https://lisanavi.github.io/archive/360img/room/105.jpg"],
   '106': [878,88,930,171,"https://lisanavi.github.io/archive/360img/room/106.jpg"],
   '107': [807,87,877,171,"https://lisanavi.github.io/archive/360img/room/107.jpg"],
