@@ -55,6 +55,7 @@ function search(num){
             dis_number.textContent = num[0] + "F";
             dis_number.style.background=colors[num[0] - 1];
             info(num)
+            
         }
         
     }
@@ -71,8 +72,8 @@ function info(num) {
     } else {
         desk.textContent = "この教室のインフォメーションはありません";
     }
-
 }
+
 
 function inf(){
 
