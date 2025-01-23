@@ -285,7 +285,7 @@ div#information{
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	top: 40px; left: 0%;
+	top: 0px; left: 0%;
 	background: rgb(61, 61, 61, 0.9);
 	color:#fff;
 	position: fixed;
@@ -405,10 +405,7 @@ button:active {
 		border-radius: 0;
 	}
 
-	div#information{
-		width: 90%;
-		margin: 10% 5%;
-	}
+	
 
 	#information.3d{
 		width: 100%
