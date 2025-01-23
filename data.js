@@ -27,7 +27,7 @@ data={'101': [1451,63,1548,170,"https://lisanavi.github.io/archive/360img/3dhtml
   '125':[926, 264, 994, 323, "https://lisanavi.github.io/archive/360img/3dhtml/125d.html"],
   '126':[990, 265, 1046, 333],
   '127':[1070, 264, 1150, 343],
-  '128':[819, 560, 1063, 647,"https://lisanavi.github.io/archive/360img/3dhtml/118d.html"],
+  '128':[819, 560, 1063, 647,"https://lisanavi.github.io/archive/360img/3dhtml/128d.html"],
   '129':[771, 561, 823, 646],
   '130':[636, 561, 689, 648, "1階の薬品室になります。\n様々な微生物や食品を扱うバイオ系の授業を支える重要な薬品室です。\n微生物を増やし、観察するための培地をはじめ、基礎実験の薬品等も置いてあります。\n"],
   '131':[540, 561, 641, 648,"https://lisanavi.github.io/archive/360img/3dhtml/131d.html"],
