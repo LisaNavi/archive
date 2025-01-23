@@ -394,7 +394,6 @@ button:active {
 		display:flex;
 		opacity: 80%;
 		position:absolute;
-		top: 15vh; right:8%;
 		scale: 1.5;
 	}
 
