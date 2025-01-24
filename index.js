@@ -55,7 +55,7 @@ function search(num){
             dis_number.textContent = num[0] + "F";
             dis_number.style.background=colors[num[0] - 1];
             info(num)
-            click(num)
+            
             
         }
         
