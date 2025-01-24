@@ -404,13 +404,13 @@ button:active {
 		border-radius: 0;
 	}
 
-	iframe .qa{
+	.qa{
 		text-align: left;
 		margin-bottom: 5rem;
 		font-size: 1rem;
 	}
 	
-	iframe .ques{
+	.ques{
 		background-color:#b9d1ff;
 		padding: 1rem;
 		margin-bottom: 1rem;
@@ -439,13 +439,13 @@ button:active {
 
 
 /* Q&A */
-iframe .qa{
+.qa{
 	text-align: left;
 	margin-bottom: 5rem;
 	font-size: 1rem;
 }
 
-iframe .ques{
+.ques{
 	background-color:#b9d1ff;
 	padding: 1rem;
 	margin-bottom: 1rem;
