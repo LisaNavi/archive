@@ -426,13 +426,13 @@ button:active {
 
 
 /* Q&A */
-.qa{
+iframe .qa{
 	text-align: left;
 	margin-bottom: 5rem;
 	font-size: 1rem;
 }
 
-.ques{
+iframe .ques{
 	background-color:#b9d1ff;
 	padding: 1rem;
 	margin-bottom: 1rem;
