@@ -55,6 +55,7 @@ function search(num){
             dis_number.textContent = num[0] + "F";
             dis_number.style.background=colors[num[0] - 1];
             info(num)
+            click(num)
             
         }
         
@@ -73,6 +74,21 @@ function info(num) {
         desk.textContent = "この教室のインフォメーションはありません";
     }
 }
+
+function click(num){
+    let clickCount = 0
+    const hogeElement = document.getElementById('hogeElement');
+    var info_pane = document.getElementById("information");
+        var html = document.getElementById("3djpg");
+        info_pane.style.visibility = "visible";
+        if (data[num][5] != undefined) {
+            html.src=data[num][5];
+        }
+      
+
+}
+    
+
 
 
 function inf(){
