@@ -407,8 +407,8 @@ button:active {
 	
 
 	#information.3d{
-		width: 100%
-		height: 100%
+		width: 100%;
+		height: 100%;
 	}
 
 }
@@ -422,4 +422,20 @@ button:active {
 	to {
 		left: 0vw;
 	}
+}
+
+
+/* Q&A */
+.qa{
+	text-align: left;
+	margin-bottom: 5rem;
+	font-size: 1rem;
+}
+
+.ques{
+	background-color:#b9d1ff;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	font-size: 1.2rem;
+	font-weight: bold;
 }
