@@ -79,7 +79,7 @@ data={'101': [1451,63,1548,170,"https://lisanavi.github.io/archive/360img/3dhtml
   '193':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/ground.html"],
   '194':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/martial_arts_hall.html"],
   '195':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/training_room.html"],
-  '196':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/gym-center.html"],
+  '196':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/gym-center.html","https://lisanavi.github.io/archive/360img/3dhtml/gym-right.html","https://lisanavi.github.io/archive/360img/3dhtml/gym-left.html"],
   '197':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/gym-stage.html"],
   '201':[1141, 191, 1218, 270,"https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"],
   '202':[1141, 266, 1219, 347,"https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"],

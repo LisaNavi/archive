@@ -5,6 +5,7 @@ let panel = document.getElementById("information");
 let inputbox = document.getElementById("input");
 let schedulebox = document.getElementById("cls-table");
 let tutorial = document.getElementById("tutorial");
+let n = 0
 
 // クッキーから読み込み
 let userdata = {};
@@ -55,6 +56,7 @@ function search(num){
             dis_number.textContent = num[0] + "F";
             dis_number.style.background=colors[num[0] - 1];
             info(num)
+            click(num)
             
             
         }
@@ -76,17 +78,39 @@ function info(num) {
 }
 
 function click(num){
-    let clickCount = 0
-    const hogeElement = document.getElementById('hogeElement');
+    
+    const hogeElement = document.getElementById('next');
     var info_pane = document.getElementById("information");
         var html = document.getElementById("3djpg");
         info_pane.style.visibility = "visible";
-        if (data[num][5] != undefined) {
-            html.src=data[num][5];
-        }
-      
+        n=n+1
+        hogeElement.addEventListener('click', () => {
+        
 
+
+        if (data[num][4+n] != undefined) {
+            html.src=data[num][4+n];
+        }else{
+            html.src=data[num][4];
+alert("この教室の画像はこれだけです。");
+n=0;
+        }
+        
+
+
+    
+})
 }
+   
+    
+    
+    
+    
+    
+    
+
+
+
     
 
 
