@@ -418,6 +418,16 @@ button:active {
 		font-weight: bold;
 	}
 	
+	.category{
+		background-color:#81a7ee;
+		padding: 1rem;
+		font-size: 1.5rem;
+		font-weight: bold;
+	}
+	
+	.qaspace{
+		margin: 1rem;
+	}
 
 	#information{
 		width: 100%;
