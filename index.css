@@ -412,7 +412,7 @@ button:active {
 	
 	.ques{
 		background-color:#b9d1ff;
-		padding: 1rem;
+		padding: 0.5rem;
 		margin-bottom: 1rem;
 		font-size: 1.2rem;
 		font-weight: bold;
@@ -441,14 +441,25 @@ button:active {
 /* Q&A */
 .qa{
 	text-align: left;
-	margin-bottom: 5rem;
+	margin-bottom: 2rem;
 	font-size: 1rem;
 }
 
 .ques{
 	background-color:#b9d1ff;
-	padding: 1rem;
+	padding: 0.5rem;
 	margin-bottom: 1rem;
 	font-size: 1.2rem;
 	font-weight: bold;
+}
+
+.category{
+	background-color:#81a7ee;
+	padding: 1rem;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.qaspace{
+	margin: 1rem;
 }
