@@ -447,6 +447,7 @@ button:active {
 		position: fixed;
 		z-index:4;
 		font-weight: bold;
+		font-size: 0.75rem;
 		text-align: center;
 		margin-left: 1rem;
 		margin-top: 4rem;
@@ -454,7 +455,7 @@ button:active {
 	}
 	
 	.cau-1{
-		font-size: 1.5rem;
+		font-size: 1rem;
 		color: red;
 		font-weight: 900;
 	}
@@ -496,4 +497,30 @@ button:active {
 
 .qaspace{
 	margin: 1rem;
+}
+
+.caution{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 12rem;
+	height: 5rem;
+	top: 0px; left: 0%;
+	background: rgb(61, 61, 61, 0.9);
+	color:#fff;
+	position: fixed;
+	z-index:4;
+	font-weight: bold;
+	font-size: 0.75rem;
+	text-align: center;
+	margin-left: 0.5rem;
+	margin-top: 4rem;
+	border-radius: 1rem;
+}
+
+.cau-1{
+	font-size: 1rem;
+	color: red;
+	font-weight: 900;
 }
