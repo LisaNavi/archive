@@ -2,16 +2,16 @@
     <head>
         <meta charset="UTF-8">
         <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
-        
+        <script src="lookcontrorl.js"></script>
     </head>
 
 
      <body>
  <a-scene xr-mode-ui="enabled:false">
-    <a-entity camera look-controls="magicWindowTrackingEnabled:false;"></a-entity>
+    <a-entity camera look-controls="magicWindowTrackingEnabled:true;" id="entity"></a-entity>
 
           <a-sky src="https://lisanavi.github.io/archive/360img/room/101.jpg"  position="0,0,0" id="look-controls" ></a-sky>
-         
+    <button type="button" onclick="javascript:gyrooff()"  style="z-index: calc(infinity);">GyroOff</button>
         </a-scene>
         </body>
 </html>
