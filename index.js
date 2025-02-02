@@ -148,8 +148,11 @@ function cls_open() {
 }
 
 function info_close() {
+    var html = document.getElementById("3djpg");
     var info_pane = document.getElementById("information");
+    html.src=data[101][4];
     info_pane.style.visibility = "hidden";
+   
 }
 
 function TimelineChange() {
