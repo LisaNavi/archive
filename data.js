@@ -227,7 +227,7 @@ data={'101': [1451,63,1548,170,"https://lisanavi.github.io/archive/360img/3dhtml
   '464':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/464d.html"],
   '465':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/465d.html"],
   '466':[0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/466d.html"],
-  '467':[0,0,0,0, "https://youtu.be/HtJa8JJpKJE?si=DwoP9Q-_HCBBdIGy"],
+  '467':[0,0,0,0, "https://www.youtube.com/embed/CEdgAW2qF3I",title="【マインクラフト】ゲリラと村と人形戦術記 その１２【ゆっくり実況】"],
   '480':[1150, 88, 1230, 137],
   '481':[690, 193, 712, 230],
   '482':[330, 133, 351, 170],
