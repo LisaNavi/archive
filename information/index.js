@@ -153,6 +153,17 @@ function TimelineChange() {
     
 }
 
+function infopage(pg){
+    console.log("aaa");
+    console.log(page[pg][0]);
+    console.log("https://lisanavi.github.io/archive/information/"+pg+".html")
+    var pahtml = document.getElementById('pages');
+    if (page[pg][0] != undefined) {
+        pahtml.src = page[pg][0];
+    }else{
+        pahtml.src = page[pg][0];
+    }
+}
 
 //tutorial
 function cls_tutorialopen(){
