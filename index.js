@@ -101,19 +101,6 @@ n=0;
     
 })
 }
-   
-    
-    
-    
-    
-    
-    
-
-
-
-    
-
-
 
 function inf(){
 
@@ -164,6 +151,13 @@ function TimelineChange() {
         dis_number.style.background=colors[floornum];
     }
     
+}
+
+function infopage(page){
+    console.log("aaa");
+    var html = document.getElementById('pages');
+    html.src="html://lisanavi.github.io/archive/information/"+page+"/";
+    console.log(page);
 }
 
 //tutorial
