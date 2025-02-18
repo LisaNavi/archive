@@ -153,11 +153,12 @@ function TimelineChange() {
     
 }
 
-function infopage(page){
+function infopage(pg){
     console.log("aaa");
-    var html = document.getElementById('pages');
-    html.src="html://lisanavi.github.io/archive/information/"+page+"/";
-    console.log(page);
+    console.log(page[pg][0]);
+    console.log("https://lisanavi.github.io/archive/information/"+pg+".html")
+    var pahtml = document.getElementById('pages');
+    pahtml.src = page[pg][0];
 }
 
 //tutorial
