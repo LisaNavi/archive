@@ -1,7 +1,7 @@
 # data.jsのデータを次の形式に変換するプログラムです。
 # {"教室番号or名前" : {"loc": [000, 000, 000, 000], "info":"～～をする教室です。", "img":"~~~.png"}}
 
-base_data={'101': [1451,63,1548,170,0,"https://lisanavi.github.io/archive/360img/3dhtml/101d.html"],
+base_data = {'101': [1451,63,1548,170,0,"https://lisanavi.github.io/archive/360img/3dhtml/101d.html"],
   '102': [1451,205,1546,276,0, "https://lisanavi.github.io/archive/360img/3dhtml/102d.html"],
   '103': [1230,38,1454,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/103d.html"],
   '104': [974,86,1073,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/104d.html"],

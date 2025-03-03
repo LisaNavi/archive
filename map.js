@@ -22,13 +22,15 @@ h2.onanimationend = function () {
 function showup(rn)
 {
     room = rn;
-    img.src = pictures[room[0] - 1]
+    afloor=data[room]["floor"][0];
+    img.src = pictures[afloor];
+
 }
 
 // Change floor
 function flchange(num)
 {
-    floornum = num;
+  
     img.src=pictures[floornum];
 }
 function clschange(num)

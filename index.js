@@ -37,24 +37,19 @@ function search(num){
     if (Number.isInteger(num)){
         alert("部屋番号を入力してください。");
     }
-    else if (!(num > 100 && num < 1000)) {
-        alert("3桁である必要があります。");
-    }
-    else if (!(num[0] < 5 && num[0] > 0))
-    {
-        alert(num[0] + "階は存在しません。");
-    }
+    
     else {
         if (typeof data[num] == "undefined"){
             alert("指定された部屋番号は登録されていません。");
         }
         else {
             map.contentWindow.room = num;
-            floornum = num[0] - 1;
-            map.contentWindow.flchange(num-1);
+            floornum =  data[num]["floor"][0];
+            map.contentWindow.flchange(floornum);
             map.contentWindow.showup(num);
-            dis_number.textContent = num[0] + "F";
-            dis_number.style.background=colors[num[0] - 1];
+            dis_number.textContent = (floornum+1) + "F";
+            dis_number.style.background=colors[data[num]["floor"][0]];
+           
             info(num)
             click(num)
             
@@ -70,8 +65,8 @@ function info(num) {
     var desk_num = document.getElementById("desk-num");
     var html = document.getElementById("3djpg");
     info_pane.style.visibility = "visible";
-    if (data[num][4] != undefined) {
-        html.src=data[num][4];
+    if (data[num]["3dimg"] != undefined) {
+        html.src=data[num]["3dimg"];
     } else {
         desk.textContent = "この教室のインフォメーションはありません";
     }
@@ -89,9 +84,9 @@ function click(num){
 
 
         if (data[num][4+n] != undefined) {
-            html.src=data[num][4+n];
+            html.src=data["3dimg"][0+n];
         }else{
-            html.src=data[num][4];
+            html.src=data[num]["3dimg"];
 alert("この教室の画像はこれだけです。");
 n=0;
         }
