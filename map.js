@@ -30,7 +30,7 @@ function showup(rn)
 // Change floor
 function flchange(num)
 {
-  
+  floornum=num;
     img.src=pictures[floornum];
 }
 function clschange(num)

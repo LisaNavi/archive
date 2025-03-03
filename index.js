@@ -66,7 +66,7 @@ function info(num) {
     var html = document.getElementById("3djpg");
     info_pane.style.visibility = "visible";
     if (data[num]["3dimg"] != undefined) {
-        html.src=data[num]["3dimg"];
+        html.src=data[num]["3dimg"][0];
     } else {
         desk.textContent = "この教室のインフォメーションはありません";
     }
@@ -78,15 +78,16 @@ function click(num){
     var info_pane = document.getElementById("information");
         var html = document.getElementById("3djpg");
         info_pane.style.visibility = "visible";
-        n=n+1
-        hogeElement.addEventListener('click', () => {
+        n=n+1;
         
+        hogeElement.addEventListener('click', () => {
+    
 
 
-        if (data[num][4+n] != undefined) {
-            html.src=data["3dimg"][0+n];
+        if (data[num]["3dimg"][0+n] != undefined) {
+            html.src=data[num]["3dimg"][0+n];
         }else{
-            html.src=data[num]["3dimg"];
+            html.src=data[num]["3dimg"][0];
 alert("この教室の画像はこれだけです。");
 n=0;
         }

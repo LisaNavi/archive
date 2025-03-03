@@ -1,53 +1,4 @@
-# data.jsのデータを次の形式に変換するプログラムです。
-# {"教室番号or名前" : {"loc": [000, 000, 000, 000], "info":"～～をする教室です。", "img":"~~~.png"}}
-
-base_data = {'101': [1451,63,1548,170,0,"https://lisanavi.github.io/archive/360img/3dhtml/101d.html"],
-  '102': [1451,205,1546,276,0, "https://lisanavi.github.io/archive/360img/3dhtml/102d.html"],
-  '103': [1230,38,1454,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/103d.html"],
-  '104': [974,86,1073,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/104d.html"],
-  '105': [946,87,977,153,0, "https://lisanavi.github.io/archive/360img/3dhtml/105d.html"],
-  '106': [878,88,930,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/106d.html"],
-  '107': [807,87,877,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/107d.html"],
-  '108': [734,87,809,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/108d.html"],
-  '109': [687,106,736,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/109d.html"],
-  '110': [591,88,690,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/110d.html"],
-  '112': [448,87,547,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/112d.html"],
-  '113': [400,87,450,171,0, "https://lisanavi.github.io/archive/360img/3dhtml/113d.html"],
-  '116': [112,87,259,273,0, "https://lisanavi.github.io/archive/360img/3dhtml/116d.html","https://lisanavi.github.io/archive/360img/3dhtml/116-2d.html"],
-  '117': [256,252,354,443,0, "https://lisanavi.github.io/archive/360img/3dhtml/117d.html"],
-  '118': [378,341,477,452,0, "https://lisanavi.github.io/archive/360img/3dhtml/118d.html"],
-  '119': [449,191,546,276,0, "https://lisanavi.github.io/archive/360img/3dhtml/119d.html"],
-  '121': [591,191,690,277,0, "https://lisanavi.github.io/archive/360img/3dhtml/121d.html"],
-  '122':[733,191,930,277,0,"https://lisanavi.github.io/archive/360img/3dhtml/122d.html"],
-  '125':[926, 264, 994, 323,0, "https://lisanavi.github.io/archive/360img/3dhtml/125d.html"],
-  '128':[819, 560, 1063, 647,0,"https://lisanavi.github.io/archive/360img/3dhtml/128d.html"],
-  '131':[540, 561, 641, 648,0,"https://lisanavi.github.io/archive/360img/3dhtml/131d.html"],
-  '132':[493,562,544,647,0, "https://lisanavi.github.io/archive/360img/3dhtml/132d.html"],
-  '133':[444, 561, 497, 649,0, "https://lisanavi.github.io/archive/360img/3dhtml/133d.html"],
-  '134':[395, 561, 450, 649,0, "https://lisanavi.github.io/archive/360img/3dhtml/134d.html"],
-  '142':[445, 668, 545, 754,0, "https://lisanavi.github.io/archive/360img/3dhtml/142d.html"],
-  '143':[541, 669, 593, 755,0, "https://lisanavi.github.io/archive/360img/3dhtml/143d.html"], 
-  '144':[590, 669, 689, 756,0, "https://lisanavi.github.io/archive/360img/3dhtml/144d.html"],
-  '161':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/161d.html"],
-  '162':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/162d.html"],
-  '163':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/163d.html"],
-  '164':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/164d.html"],
-  '165':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/165d.html"],
-  '166':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/166d.html"],
-  '167':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/167d.html"],
-  '170':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/170d.html"],
-  '171':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/171d.html"],
-  '172':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/172d.html"],
-  '173':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/173d.html"],
-  '174':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/174d.html"],
-  '175':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/175d.html"],
-  '190':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/190d.html"],
-  '191':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/191d.html"],
-  '192':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/pool.html"],
-  '193':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/ground.html"],
-  '194':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/martial_arts_hall.html"],
-  '195':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/training_room.html"],
-  '196':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/gym-center.html","https://lisanavi.github.io/archive/360img/3dhtml/gym-right.html","https://lisanavi.github.io/archive/360img/3dhtml/gym-left.html"],
+base_data = {
   '197':[0,0,0,0,0, "https://lisanavi.github.io/archive/360img/3dhtml/gym-stage.html"],
   '201':[1141, 191, 1218, 270,1,"https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"],
   '202':[1141, 266, 1219, 347,1,"https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"],
@@ -140,8 +91,6 @@ base_data = {'101': [1451,63,1548,170,0,"https://lisanavi.github.io/archive/360i
   '465':[0,0,0,0,3,"https://lisanavi.github.io/archive/360img/3dhtml/465d.html"],
   '466':[0,0,0,0,3,"https://lisanavi.github.io/archive/360img/3dhtml/466d.html"],
   '467':[0,0,0,0,3,"https://docs.google.com/presentation/d/1_smzap1NHet2iuKp5-16oNl2aLintvccZACh3C8ne9w/edit#slide=id.g32f2e67fbb6_1_8"],
-
-  
   '多目的室': [1451,63,1548,170,0,"https://lisanavi.github.io/archive/360img/3dhtml/101d.html"],
   '記念室': [1451,205,1546,276,0,"https://lisanavi.github.io/archive/360img/3dhtml/102d.html"],
   '記念':[1451,205,1546,276,0,"https://lisanavi.github.io/archive/360img/3dhtml/102d.html"],
@@ -179,11 +128,10 @@ base_data = {'101': [1451,63,1548,170,0,"https://lisanavi.github.io/archive/360i
   '生物工学実験室':[590, 669, 689, 756,0,"https://lisanavi.github.io/archive/360img/3dhtml/144d.html"],
  
  }
-# ここに元データ
 
 import json
 
-converted_data = {} # 変換後データ
+converted_data = {} 
 for room in base_data:
     tmp = base_data[room]
     converted_data[room] = {}
@@ -191,5 +139,5 @@ for room in base_data:
     if len(tmp) >= 5:
         converted_data[room]["floor"] = [tmp[4]]
         if len(tmp) >= 6:
-            converted_data[room]["3dimg"] = tmp[5]
+            converted_data[room]["3dimg"] = [tmp[5]]
 print(json.dumps(converted_data,ensure_ascii=False,indent=4))
