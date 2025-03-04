@@ -2170,7 +2170,833 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
-}
-
- 
+},
+"図書室": {
+    "pos": [
+        1449,
+        65,
+        1549,
+        277
+    ],
+    "floor": [
+        1
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/209d.html"]
+},
+"製図室": {
+    "pos": [
+        685,
+        87,
+        783,
+        172
+    ],
+    "floor": [
+        1
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/214d.html"]
+},
+"CAD室1": {
+        "pos": [
+            543,
+            87,
+            642,
+            172
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/216d.html"]
+    },
+    "cad室1": {
+        "pos": [
+            543,
+            87,
+            642,
+            172
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/216d.html"]
+    },
+    "CAD室2": {
+        "pos": [
+            445,
+            87,
+            546,
+            172
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/217d.html"]
+    },
+    "cad室2": {
+        "pos": [
+            445,
+            87,
+            546,
+            172
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/217d.html"]
+    },
+    "機械関係資料閲覧室": {
+        "pos": [
+            398,
+            87,
+            451,
+            172
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/218d.html"]
+    },
+    "自動制御実習室": {
+        "pos": [
+            446,
+            191,
+            596,
+            277
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/222d.html"]
+    },
+    "ロボット・FA準備室": {
+        "pos": [
+            446,
+            191,
+            596,
+            277
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/222d.html"]
+    },
+    "基礎分析実習室": {
+        "pos": [
+            588,
+            561,
+            689,
+            649
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/227d.html"]
+    },
+    "環境計測実習室": {
+        "pos": [
+            445,
+            561,
+            545,
+            649
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/229d.html"]
+    },
+    "物理計測実習室": {
+        "pos": [
+            109,
+            561,
+            209,
+            649
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/231d.html"]
+    },
+    "物理計測準備室": {
+        "pos": [
+            109,
+            561,
+            209,
+            649
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/231d.html"]
+    },
+    "化学計測実習室": {
+        "pos": [
+            207,
+            669,
+            305,
+            755
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/233d.html"]
+    },
+    "化学計測準備室": {
+        "pos": [
+            207,
+            669,
+            305,
+            755
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/233d.html"]
+    },
+    "環境工学実習室": {
+        "pos": [
+            587,
+            669,
+            689,
+            755
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/237d.html"]
+    },
+    "環境工学準備室": {
+        "pos": [
+            587,
+            669,
+            689,
+            755
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/237d.html"]
+    },
+    "ロッカースペース": {
+        "pos": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/locker_zennichi.html"]
+    },
+    "ロッカースペース（全日制）": {
+        "pos": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "floor": [
+            1
+        ],
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/locker_zennichi.html"]
+    },
+    "一般学習室7": {
+      "pos": [
+          1142,
+          192,
+          1220,
+          270
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室8": {
+      "pos": [
+          1142,
+          268,
+          1218,
+          347
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室9": {
+      "pos": [
+          1142,
+          343,
+          1218,
+          421
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室10": {
+      "pos": [
+          1141,
+          418,
+          1218,
+          497
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室11": {
+      "pos": [
+          1142,
+          494,
+          1218,
+          571
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室1212": {
+      "pos": [
+          1142,
+          568,
+          1218,
+          649
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "選択学習室3": {
+      "pos": [
+          1071,
+          275,
+          1119,
+          344
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+  },
+  "選択学習室4": {
+      "pos": [
+          1071,
+          491,
+          1119,
+          565
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+  },
+  "CALL教室": {
+    "pos": [
+        1342,
+        89,
+        1454,
+        172
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/310d.html"]
+},
+"call教室": {
+    "pos": [
+        1342,
+        89,
+        1454,
+        172
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/310d.html"]
+},
+"情報基礎コンピューター室": {
+    "pos": [
+        1233,
+        89,
+        1345,
+        172
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/311d.html"]
+},
+"進路指導室2": {
+      "pos": [
+          729,
+          89,
+          904,
+          172
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/314d.html"]
+  },
+  "ガイダンスルーム": {
+      "pos": [
+          729,
+          89,
+          904,
+          172
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/314d.html"]
+  },
+  "電気計測室": {
+      "pos": [
+          589,
+          89,
+          691,
+          172
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/316d.html"]
+  },
+  "プリント基盤加工室": {
+      "pos": [
+          490,
+          89,
+          548,
+          172
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/317d.html"]
+  },
+  "電子工作室": {
+      "pos": [
+          592,
+          192,
+          690,
+          277
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/322d.html"]
+  },
+  "放送室": {
+    "pos": [
+        782,
+        192,
+        836,
+        254
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/324d.html"]
+},
+"社会科学習室": {
+    "pos": [
+        732,
+        572,
+        833,
+        649
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/326d.html"]
+},
+"物理基礎実験室": {
+    "pos": [
+        589,
+        562,
+        690,
+        649
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/327d.html"]
+},
+"力学実験実習室": {
+    "pos": [
+        445,
+        562,
+        545,
+        649
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/329d.html"]
+},
+"宇宙通信実習室": {
+      "pos": [
+          159,
+          562,
+          256,
+          649
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/330d.html"]
+  },
+  "地球科学実験室": {
+      "pos": [
+          204,
+          671,
+          305,
+          755
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/332d.html"]
+  },
+  "宇宙工学実習室": {
+    "pos": [
+        493,
+        671,
+        593,
+        755
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/333d.html"]
+},
+"宇宙工学資料室": {
+    "pos": [
+        493,
+        671,
+        593,
+        755
+    ],
+    "floor": [
+        2
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/333d.html"]
+},
+"生命基礎実習室": {
+      "pos": [
+          733,
+          671,
+          822,
+          755
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/336d.html"]
+  },
+  "美術室": {
+      "pos": [
+          917,
+          671,
+          1014,
+          755
+      ],
+      "floor": [
+          2
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/338d.html"]
+  },
+  "一般学習室13": {
+      "pos": [
+          1141,
+          191,
+          1218,
+          270
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室14": {
+      "pos": [
+          1141,
+          268,
+          1218,
+          345
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室15": {
+      "pos": [
+          1141,
+          343,
+          1218,
+          421
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室16": {
+      "pos": [
+          1141,
+          418,
+          1218,
+          498
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室17": {
+      "pos": [
+          1141,
+          494,
+          1218,
+          574
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "一般学習室18": {
+      "pos": [
+          1141,
+          570,
+          1218,
+          647
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  },
+  "選択学習室5": {
+      "pos": [
+          1068,
+          275,
+          1121,
+          345
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+  },
+  "選択学習室6": {
+      "pos": [
+          1070,
+          490,
+          1121,
+          564
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+  },
+  "外国語実習室": {
+      "pos": [
+          877,
+          87,
+          978,
+          173
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/410d.html"]
+  },
+  "マルチメディア実習室": {
+      "pos": [
+          767,
+          87,
+          881,
+          173
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/411d.html"]
+  },
+  "ネットワーク通信実習室": {
+      "pos": [
+          644,
+          87,
+          771,
+          173
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/412d.html"]
+  },
+  "プログラム実習室": {
+      "pos": [
+          535,
+          87,
+          650,
+          173
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/413d.html"]
+  },
+  "無響室": {
+      "pos": [
+          207,
+          88,
+          258,
+          129
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/417d.html"]
+  },
+  "論理回路実習室": {
+      "pos": [
+          494,
+          192,
+          545,
+          277
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/419d.html"]
+  },
+  "情報システム工学第1実験室": {
+      "pos": [
+          540,
+          192,
+          594,
+          277
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/420d.html"]
+  },
+  "情報システム工学第2実験室": {
+      "pos": [
+          590,
+          192,
+          688,
+          277
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/421d.html"]
+  },
+  "情報システム工学第3実験室": {
+      "pos": [
+          734,
+          192,
+          834,
+          277
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/422d.html"]
+  },
+  "自習室": {
+      "pos": [
+          831,
+          192,
+          881,
+          277
+      ],
+      "floor": [
+          3
+      ],
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/423d.html"]
+  },
+  "書道室": {
+    "pos": [
+        734,
+        572,
+        832,
+        646
+    ],
+    "floor": [
+        3
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/424d.html"]
+},
+"気象大気観測室": {
+    "pos": [
+        632,
+        563,
+        688,
+        647
+    ],
+    "floor": [
+        3
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/425d.html"]
+},
+"作法室": {
+    "pos": [
+        541,
+        562,
+        636,
+        650
+    ],
+    "floor": [
+        3
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/426d.html"]
+},
+"調理室": {
+    "pos": [
+        541,
+        671,
+        687,
+        756
+    ],
+    "floor": [
+        3
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/427d.html"]
+},
+"被服室": {
+    "pos": [
+        732,
+        671,
+        821,
+        755
+    ],
+    "floor": [
+        3
+    ],
+    "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/429d.html"]
+},
+"音楽室": {
+    "pos": [
+        916,
+        669,
+        1015,
+        755
+    ],
+    "floor": [
+        3
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/430d.html"]
+},
  };
