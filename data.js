@@ -2091,6 +2091,18 @@ data={
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/144d.html"]
 },
+"中庭": {
+    "pos": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "floor": [
+        0
+    ],
+    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/191d.html"]
+},
 "一般学習室1": {
   "pos": [
     1141,
