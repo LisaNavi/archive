@@ -352,20 +352,69 @@ div#info-text{
 div#tutorial{ 
     display: flex;
 	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+	justify-content: flex-start;
+	align-items: flex-start;
 	width: 100vw;
 	height: 100vh;
 	top: 0%; left: 0%;
 	background: rgb(61, 61, 61, 0.9);
 	color:#fff;
-	position: fixed;
+	position: absolute;
 	visibility: hidden;
 	z-index:11;
 	font-weight: bold;
 	text-align: center;
 	
 }
+#tutorial > .cls-buttons {
+	position: absolute;
+	top:3rem;
+	left: 0.5rem;
+	z-index:12;
+}
+img#cls_tutorial{
+	height: 75vh;
+	object-fit: contain;
+	color:#6699ff;
+	margin: auto;
+}
+	/*使い方ボタン？アイコン型*/
+	#help-btn{
+	 position: absolute;
+	 width:1.2rem;
+	 height:1.2rem;
+	 top:17px;
+	 min-width:0;
+	 margin-left:-0.4rem;
+	 background: #4fdcff;
+	 border: 2px solid #4fdcff;
+	 color: #ffffff;
+	 border-radius: 50%;
+	 font-size: 1.1rem;
+	  font-weight: bold;
+	 display:flex;
+	 align-items: center;
+	 justify-content: center;
+	 cursor: pointer;
+	 box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+	 transition: background 0.2s, color 0.2s;
+	 position: relative;
+	 padding: 0;
+	}
+	#help-btn::before{
+	 content: "？";
+	 font-size: 0.8rem;
+	 font-weight:bold;
+	 display:block;
+	 width:100%;
+	 text-align:center;
+	 line-height:1/2rem;
+	}
+	#help-btn-right-bottom:hover{
+	 background: #6699ff;
+	 color: #ffffff;
+	}
+
 
 img#cls_tutorial{
 	height: 75vh;
