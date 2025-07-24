@@ -67,6 +67,7 @@ function info(num) {
     info_pane.style.visibility = "visible";
     if (data[num]["3dimg"] != undefined) {
         html.src=data[num]["3dimg"][0];
+         document.getElementById("next").textContent=data[num]["maisuu"][n];
     } else {
         desk.textContent = "この教室のインフォメーションはありません";
     }
@@ -85,10 +86,11 @@ function click(num){
 
 
         if (data[num]["3dimg"][0+n] != undefined) {
+            document.getElementById("next").textContent=data[num]["maisuu"][n];
             html.src=data[num]["3dimg"][0+n];
         }else{
             html.src=data[num]["3dimg"][0];
-alert("この教室の画像はこれだけです。");
+
 n=0;
         }
         
@@ -135,6 +137,8 @@ function info_close() {
     var info_pane = document.getElementById("information");
     html.src=data[101][4];
     info_pane.style.visibility = "hidden";
+    document.getElementById("next").textContent="切替";
+    n=0;
    
 }
 
