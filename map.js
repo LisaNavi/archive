@@ -9,6 +9,7 @@ let floornum = 1;
 let container = document.getElementById("container");
 let h1 = document.getElementById("highlight");
 let h2 = document.getElementById("cls-highlight");
+let body = document.getElementById("body");
 let getTime = 0;
 
 h1.onanimationend = function () {
@@ -32,6 +33,19 @@ function flchange(num)
 {
   floornum=num;
     img.src=pictures[floornum];
+
+            if(floornum==0){
+body.style.backgroundColor='rgb(255,244,227)';
+
+    }else if(floornum==1){
+body.style.backgroundColor='rgb(227,247,255)';
+
+    }else if(floornum==2){
+body.style.backgroundColor='rgb(237,255,227)';
+
+    }else if(floornum==3){
+        body.style.backgroundColor='rgb(255,234,227)';
+    }
 }
 function clschange(num)
 {
