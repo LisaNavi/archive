@@ -13,6 +13,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/101d.html"]
+      ,"maisuu":["1/1"]
   },
   "102": {
       "pos": [
@@ -25,7 +26,8 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/102d.html"]
-  },
+      ,"maisuu":["1/1"]
+    },
   "103": {
       "pos": [
           1230,
@@ -37,6 +39,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/103d.html"]
+      ,"maisuu":["1/1"]
   },
   "104": {
       "pos": [
@@ -49,6 +52,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/104d.html"]
+      ,"maisuu":["1/1"]
   },
   "105": {
       "pos": [
@@ -61,6 +65,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/105d.html"]
+      ,"maisuu":["1/1"]
   },
   "106": {
       "pos": [
@@ -73,6 +78,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/106d.html"]
+      ,"maisuu":["1/1"]
   },
   "107": {
       "pos": [
@@ -85,6 +91,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/107d.html"]
+      ,"maisuu":["1/1"]
   },
   "108": {
       "pos": [
@@ -97,6 +104,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/108d.html"]
+      ,"maisuu":["1/1"]
   },
   "109": {
       "pos": [
@@ -109,6 +117,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/109d.html"]
+      ,"maisuu":["1/1"]
   },
   "110": {
       "pos": [
@@ -121,6 +130,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/110d.html"]
+      ,"maisuu":["1/1"]
   },
   "112": {
       "pos": [
@@ -133,6 +143,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/112d.html"]
+      ,"maisuu":["1/1"]
   },
   "113": {
       "pos": [
@@ -145,6 +156,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/113d.html"]
+      ,"maisuu":["1/1"]
   },
   "116": {
       "pos": [
@@ -156,7 +168,8 @@ data={
       "floor": [
           0
       ],
-      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/116d.html","https://lisanavi.github.io/archive/360img/3dhtml/116-2d.html"]
+      "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/116d.html","https://lisanavi.github.io/archive/360img/3dhtml/116-2d.html"],
+      "maisuu":["1/2","2/2"]
   },
   "117": {
       "pos": [
@@ -169,6 +182,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/117d.html"]
+      ,"maisuu":["1/1"]
   },
   "118": {
       "pos": [
@@ -181,6 +195,7 @@ data={
           0
       ],
       "3dimg": [ "https://lisanavi.github.io/archive/360img/3dhtml/118d.html"]
+      ,"maisuu":["1/1"]
   },
   "119": {
       "pos": [
@@ -193,6 +208,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/119d.html"]
+      ,"maisuu":["1/1"]
   },
   "121": {
       "pos": [
@@ -205,6 +221,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/121d.html"]
+      ,"maisuu":["1/1"]
   },
   "122": {
       "pos": [
@@ -217,6 +234,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/122d.html"]
+      ,"maisuu":["1/1"]
   },
   "125": {
       "pos": [
@@ -229,6 +247,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/125d.html"]
+      ,"maisuu":["1/1"]
   },
   "128": {
       "pos": [
@@ -241,6 +260,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/128d.html"]
+      ,"maisuu":["1/1"]
   },
   "131": {
       "pos": [
@@ -253,6 +273,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/131d.html"]
+      ,"maisuu":["1/1"]
   },
   "132": {
       "pos": [
@@ -265,6 +286,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/132d.html"]
+      ,"maisuu":["1/1"]
   },
   "133": {
       "pos": [
@@ -277,6 +299,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/133d.html"]
+      ,"maisuu":["1/1"]
   },
   "134": {
       "pos": [
@@ -289,6 +312,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/134d.html"]
+      ,"maisuu":["1/1"]
   },
   "142": {
       "pos": [
@@ -301,6 +325,7 @@ data={
           0
       ],
       "3dimg":[ "https://lisanavi.github.io/archive/360img/3dhtml/142d.html"]
+      ,"maisuu":["1/1"]
   },
   "143": {
       "pos": [
@@ -313,6 +338,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/143d.html"]
+      ,"maisuu":["1/1"]
   },
   "144": {
       "pos": [
@@ -325,6 +351,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/144d.html"]
+      ,"maisuu":["1/1"]
   },
   "161": {
       "pos": [
@@ -337,6 +364,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/161d.html"]
+      ,"maisuu":["1/1"]
   },
   "162": {
       "pos": [
@@ -349,6 +377,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/162d.html"]
+      ,"maisuu":["1/1"]
   },
   "163": {
       "pos": [
@@ -361,6 +390,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/163d.html"]
+      ,"maisuu":["1/1"]
   },
   "164": {
       "pos": [
@@ -373,6 +403,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/164d.html"]
+      ,"maisuu":["1/1"]
   },
   "165": {
       "pos": [
@@ -385,6 +416,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/165d.html"]
+      ,"maisuu":["1/1"]
   },
   "166": {
       "pos": [
@@ -397,6 +429,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/166d.html"]
+      ,"maisuu":["1/1"]
   },
   "167": {
       "pos": [
@@ -409,6 +442,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/167d.html"]
+      ,"maisuu":["1/1"]
   },
   "170": {
       "pos": [
@@ -421,6 +455,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/170d.html"]
+      ,"maisuu":["1/1"]
   },
   "171": {
       "pos": [
@@ -433,6 +468,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/171d.html"]
+      ,"maisuu":["1/1"]
   },
   "172": {
       "pos": [
@@ -445,6 +481,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/172d.html"]
+      ,"maisuu":["1/1"]
   },
   "173": {
       "pos": [
@@ -457,6 +494,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/173d.html"]
+      ,"maisuu":["1/1"]
   },
   "174": {
       "pos": [
@@ -469,6 +507,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/174d.html"]
+      ,"maisuu":["1/1"]
   },
   "175": {
       "pos": [
@@ -481,6 +520,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/175d.html"]
+      ,"maisuu":["1/1"]
   },
   "190": {
       "pos": [
@@ -493,6 +533,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/190d.html"]
+      ,"maisuu":["1/1"]
   },
   "191": {
       "pos": [
@@ -505,6 +546,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/191d.html"]
+      ,"maisuu":["1/1"]
   },
   "192": {
       "pos": [
@@ -517,6 +559,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/pool.html"]
+      ,"maisuu":["1/1"]
   },
   "193": {
       "pos": [
@@ -529,6 +572,7 @@ data={
           0
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/ground.html"]
+      ,"maisuu":["1/1"]
   },
   "194": {
         "pos": [
@@ -541,6 +585,7 @@ data={
             0
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/martial_arts_hall.html"]
+        ,"maisuu":["1/1"]
     },
     "195": {
         "pos": [
@@ -552,7 +597,8 @@ data={
         "floor": [
             0
         ],
-        "3dimg": "https://lisanavi.github.io/archive/360img/3dhtml/training_room.html"
+        "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/training_room.html"]
+        ,"maisuu":["1/1"]
     },
     "196": {
         "pos": [
@@ -565,6 +611,7 @@ data={
             0
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/gym-center.html","https://lisanavi.github.io/archive/360img/3dhtml/gym-right.html","https://lisanavi.github.io/archive/360img/3dhtml/gym-left.html"]
+        ,"maisuu":["1/3","2/3","3/3"]
     },
     "197": {
         "pos": [
@@ -577,6 +624,7 @@ data={
             0
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/gym-stage.html"]
+        ,"maisuu":["1/1"]
     },
     "201": {
         "pos": [
@@ -589,6 +637,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+        ,"maisuu":["1/1"]
     },
     "202": {
         "pos": [
@@ -601,6 +650,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+        ,"maisuu":["1/1"]
     },
     "203": {
         "pos": [
@@ -613,6 +663,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+        ,"maisuu":["1/1"]
     },
     "204": {
         "pos": [
@@ -625,6 +676,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+        ,"maisuu":["1/1"]
     },
     "205": {
         "pos": [
@@ -637,6 +689,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+        ,"maisuu":["1/1"]
     },
     "206": {
         "pos": [
@@ -649,6 +702,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+        ,"maisuu":["1/1"]
     },
     "207": {
         "pos": [
@@ -661,6 +715,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+        ,"maisuu":["1/1"]
     },
     "208": {
         "pos": [
@@ -673,6 +728,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+        ,"maisuu":["1/1"]
     },
     "209": {
         "pos": [
@@ -685,6 +741,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/209d.html"]
+        ,"maisuu":["1/1"]
     },
     "214": {
         "pos": [
@@ -697,6 +754,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/214d.html"]
+        ,"maisuu":["1/1"]
     },
     "216": {
         "pos": [
@@ -709,6 +767,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/216d.html"]
+        ,"maisuu":["1/1"]
     },
     "217": {
         "pos": [
@@ -721,6 +780,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/217d.html"]
+        ,"maisuu":["1/1"]
     },
     "218": {
         "pos": [
@@ -733,6 +793,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/218d.html"]
+        ,"maisuu":["1/1"]
     },
     "222": {
         "pos": [
@@ -745,6 +806,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/222d.html"]
+        ,"maisuu":["1/1"]
     },
     "227": {
         "pos": [
@@ -757,6 +819,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/227d.html"]
+        ,"maisuu":["1/1"]
     },
     "229": {
         "pos": [
@@ -769,6 +832,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/229d.html"]
+        ,"maisuu":["1/1"]
     },
     "231": {
         "pos": [
@@ -781,6 +845,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/231d.html"]
+        ,"maisuu":["1/1"]
     },
     "233": {
         "pos": [
@@ -793,6 +858,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/233d.html"]
+        ,"maisuu":["1/1"]
     },
     "237": {
         "pos": [
@@ -805,6 +871,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/237d.html"]
+        ,"maisuu":["1/1"]
     },
     "261": {
         "pos": [
@@ -817,6 +884,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/261d.html"]
+        ,"maisuu":["1/1"]
     },
     "262": {
         "pos": [
@@ -829,6 +897,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/262d.html"]
+        ,"maisuu":["1/1"]
     },
     "263": {
         "pos": [
@@ -841,6 +910,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/263d.html"]
+        ,"maisuu":["1/1"]
     },
     "264": {
         "pos": [
@@ -853,6 +923,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/264d.html"]
+        ,"maisuu":["1/1"]
     },
     "265": {
         "pos": [
@@ -865,6 +936,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/265d.html"]
+        ,"maisuu":["1/1"]
     },
     "266": {
         "pos": [
@@ -877,6 +949,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/266d.html"]
+        ,"maisuu":["1/1"]
     },
     "267": {
         "pos": [
@@ -889,6 +962,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/267d.html"]
+        ,"maisuu":["1/1"]
     },
     "268": {
         "pos": [
@@ -901,6 +975,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/268d.html"]
+        ,"maisuu":["1/1"]
     },
     "270": {
         "pos": [
@@ -913,6 +988,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/270d.html"]
+        ,"maisuu":["1/1"]
     },
     "290": {
         "pos": [
@@ -925,6 +1001,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/locker_zennichi.html"]
+        ,"maisuu":["1/1"]
     },
  
     "301": {
@@ -938,6 +1015,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "302": {
       "pos": [
@@ -950,6 +1028,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "303": {
       "pos": [
@@ -962,6 +1041,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "304": {
       "pos": [
@@ -974,6 +1054,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "305": {
       "pos": [
@@ -986,6 +1067,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "306": {
       "pos": [
@@ -998,6 +1080,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "307": {
       "pos": [
@@ -1010,6 +1093,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "308": {
       "pos": [
@@ -1022,6 +1106,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "310": {
       "pos": [
@@ -1034,6 +1119,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/310d.html"]
+      ,"maisuu":["1/1"]
   },
   "311": {
       "pos": [
@@ -1046,6 +1132,7 @@ data={
           2
       ],
       "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/311d.html"]
+      ,"maisuu":["1/1"]
   },
   "314": {
       "pos": [
@@ -1058,6 +1145,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/314d.html"]
+      ,"maisuu":["1/1"]
   },
   "316": {
       "pos": [
@@ -1070,6 +1158,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/316d.html"]
+      ,"maisuu":["1/1"]
   },
   "317": {
       "pos": [
@@ -1082,6 +1171,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/317d.html"]
+      ,"maisuu":["1/1"]
   },
   "322": {
       "pos": [
@@ -1094,6 +1184,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/322d.html"]
+      ,"maisuu":["1/1"]
   },
   "324": {
       "pos": [
@@ -1106,6 +1197,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/324d.html"]
+      ,"maisuu":["1/1"]
   },
   "326": {
       "pos": [
@@ -1118,6 +1210,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/326d.html"]
+      ,"maisuu":["1/1"]
   },
   "327": {
       "pos": [
@@ -1130,6 +1223,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/327d.html"]
+      ,"maisuu":["1/1"]
   },
   "329": {
       "pos": [
@@ -1142,6 +1236,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/329d.html"]
+      ,"maisuu":["1/1"]
   },
   "330": {
       "pos": [
@@ -1154,6 +1249,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/330d.html"]
+      ,"maisuu":["1/1"]
   },
   "332": {
       "pos": [
@@ -1166,6 +1262,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/332d.html"]
+      ,"maisuu":["1/1"]
   },
   "333": {
       "pos": [
@@ -1178,6 +1275,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/333d.html"]
+      ,"maisuu":["1/1"]
   },
   "336": {
       "pos": [
@@ -1190,6 +1288,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/336d.html"]
+      ,"maisuu":["1/1"]
   },
   "338": {
       "pos": [
@@ -1202,6 +1301,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/338d.html"]
+      ,"maisuu":["1/1"]
   },
   "361": {
       "pos": [
@@ -1214,6 +1314,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/361d.html"]
+      ,"maisuu":["1/1"]
   },
   "362": {
       "pos": [
@@ -1226,6 +1327,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/362d.html"]
+      ,"maisuu":["1/1"]
   },
   "363": {
       "pos": [
@@ -1238,6 +1340,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/363d.html"]
+      ,"maisuu":["1/1"]
   },
   "364": {
       "pos": [
@@ -1250,6 +1353,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/364d.html"]
+      ,"maisuu":["1/1"]
   },
   "365": {
       "pos": [
@@ -1262,6 +1366,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/365d.html"]
+      ,"maisuu":["1/1"]
   },
   "366": {
       "pos": [
@@ -1274,6 +1379,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/366d.html"]
+      ,"maisuu":["1/1"]
   },
   "367": {
       "pos": [
@@ -1286,6 +1392,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/367d.html"]
+      ,"maisuu":["1/1"]
   },
   "368": {
       "pos": [
@@ -1298,6 +1405,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/368d.html"]
+      ,"maisuu":["1/1"]
   },
   "401": {
       "pos": [
@@ -1310,6 +1418,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "402": {
       "pos": [
@@ -1322,6 +1431,7 @@ data={
           3
       ],
       "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "403": {
       "pos": [
@@ -1334,6 +1444,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "404": {
       "pos": [
@@ -1346,6 +1457,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "405": {
       "pos": [
@@ -1358,6 +1470,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "406": {
       "pos": [
@@ -1370,6 +1483,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "407": {
       "pos": [
@@ -1382,6 +1496,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "408": {
       "pos": [
@@ -1394,6 +1509,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "410": {
       "pos": [
@@ -1406,6 +1522,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/410d.html"]
+      ,"maisuu":["1/1"]
   },
   "411": {
       "pos": [
@@ -1418,6 +1535,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/411d.html"]
+      ,"maisuu":["1/1"]
   },
   "412": {
       "pos": [
@@ -1430,6 +1548,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/412d.html"]
+      ,"maisuu":["1/1"]
   },
   "413": {
       "pos": [
@@ -1442,6 +1561,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/413d.html"]
+      ,"maisuu":["1/1"]
   },
   "417": {
       "pos": [
@@ -1454,6 +1574,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/417d.html"]
+      ,"maisuu":["1/1"]
   },
   "419": {
       "pos": [
@@ -1466,6 +1587,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/419d.html"]
+      ,"maisuu":["1/1"]
   },
   "420": {
       "pos": [
@@ -1478,6 +1600,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/420d.html"]
+      ,"maisuu":["1/1"]
   },
   "421": {
       "pos": [
@@ -1490,6 +1613,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/421d.html"]
+      ,"maisuu":["1/1"]
   },
   "422": {
       "pos": [
@@ -1502,6 +1626,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/422d.html"]
+      ,"maisuu":["1/1"]
   },
   "423": {
       "pos": [
@@ -1514,6 +1639,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/423d.html"]
+      ,"maisuu":["1/1"]
   },
   "424": {
     "pos": [
@@ -1526,6 +1652,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/424d.html"]
+    ,"maisuu":["1/1"]
 },
 "425": {
     "pos": [
@@ -1538,6 +1665,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/425d.html"]
+    ,"maisuu":["1/1"]
 },
 "426": {
     "pos": [
@@ -1550,6 +1678,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/426d.html"]
+    ,"maisuu":["1/1"]
 },
 "427": {
     "pos": [
@@ -1562,6 +1691,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/427d.html"]
+    ,"maisuu":["1/1"]
 },
 "429": {
     "pos": [
@@ -1574,6 +1704,7 @@ data={
         3
     ],
     "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/429d.html"]
+    ,"maisuu":["1/1"]
 },
 "430": {
     "pos": [
@@ -1586,6 +1717,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/430d.html"]
+    ,"maisuu":["1/1"]
 },
 "461": {
     "pos": [
@@ -1598,6 +1730,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/461d.html"]
+    ,"maisuu":["1/1"]
 },
 "462": {
     "pos": [
@@ -1610,6 +1743,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/462d.html"]
+    ,"maisuu":["1/1"]
 },
 "463": {
     "pos": [
@@ -1622,6 +1756,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/463d.html"]
+    ,"maisuu":["1/1"]
 },
 "464": {
     "pos": [
@@ -1634,6 +1769,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/464d.html"]
+    ,"maisuu":["1/1"]
 },
 "465": {
     "pos": [
@@ -1646,6 +1782,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/465d.html"]
+    ,"maisuu":["1/1"]
 },
 "466": {
     "pos": [
@@ -1658,6 +1795,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/466d.html"]
+    ,"maisuu":["1/1"]
 },
 "467": {
     "pos": [
@@ -1670,6 +1808,7 @@ data={
         3
     ],
     "3dimg":["https://docs.google.com/presentation/d/1_smzap1NHet2iuKp5-16oNl2aLintvccZACh3C8ne9w/edit#slide=id.g32f2e67fbb6_1_8"]
+    ,"maisuu":["1/1"]
 },
 "多目的室": {
     "pos": [
@@ -1682,6 +1821,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/101d.html"]
+    ,"maisuu":["1/1"]
 },
 "記念室": {
     "pos": [
@@ -1694,6 +1834,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/102d.html"]
+    ,"maisuu":["1/1"]
 },
 "記念": {
     "pos": [
@@ -1706,6 +1847,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/102d.html"]
+    ,"maisuu":["1/1"]
 },
 "視聴覚室": {
     "pos": [
@@ -1718,6 +1860,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/103d.html"]
+    ,"maisuu":["1/1"]
 },
 "視聴覚": {
     "pos": [
@@ -1730,6 +1873,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/103d.html"]
+    ,"maisuu":["1/1"]
 },
 "保健室": {
     "pos": [
@@ -1742,6 +1886,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/104d.html"]
+    ,"maisuu":["1/1"]
 },
 "カウンセリングルーム": {
     "pos": [
@@ -1754,6 +1899,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/105d.html"]
+    ,"maisuu":["1/1"]
 },
 "鋳造実習室": {
     "pos": [
@@ -1766,6 +1912,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/110d.html"]
+    ,"maisuu":["1/1"]
 },
 "手仕上げ実習室": {
     "pos": [
@@ -1778,6 +1925,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/112d.html"]
+    ,"maisuu":["1/1"]
 },
 "板金加工実習室": {
     "pos": [
@@ -1790,6 +1938,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/112d.html"]
+    ,"maisuu":["1/1"]
 },
 "ガス溶接実習室": {
     "pos": [
@@ -1802,6 +1951,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/113d.html"]
+    ,"maisuu":["1/1"]
 },
 "アーク溶接実習室": {
     "pos": [
@@ -1814,6 +1964,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/113d.html"]
+    ,"maisuu":["1/1"]
 },
 "旋盤実習室": {
     "pos": [
@@ -1826,6 +1977,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/116d.html","https://lisanavi.github.io/archive/360img/3dhtml/116-2d.html"]
+    ,"maisuu":["1/2","2/2"]
 },
 "精密加工実習室": {
     "pos": [
@@ -1838,6 +1990,7 @@ data={
         0
     ],
     "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/116d.html","https://lisanavi.github.io/archive/360img/3dhtml/116-2d.html"]
+    ,"maisuu":["1/2","2/2"]
 },
 "汎用機実習室": {
     "pos": [
@@ -1847,9 +2000,10 @@ data={
         273
     ],
     "floor": [
-        "https://lisanavi.github.io/archive/360img/3dhtml/116d.html"
+        0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/116d.html","https://lisanavi.github.io/archive/360img/3dhtml/116-2d.html"]
+    ,"maisuu":["1/2","2/2"]
 },
 "数値制御工作機械実習室": {
     "pos": [
@@ -1862,6 +2016,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/117d.html"]
+    ,"maisuu":["1/1"]
 },
 "CAM実習室": {
     "pos": [
@@ -1874,6 +2029,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/117d.html"]
+    ,"maisuu":["1/1"]
 },
 "課題実習室": {
     "pos": [
@@ -1886,6 +2042,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/118d.html"]
+    ,"maisuu":["1/1"]
 },
 "材料試験室": {
     "pos": [
@@ -1898,6 +2055,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/119d.html"]
+    ,"maisuu":["1/1"]
 },
 "流体力学実習室": {
     "pos": [
@@ -1910,6 +2068,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/121d.html"]
+    ,"maisuu":["1/1"]
 },
 "流体準備室": {
     "pos": [
@@ -1922,6 +2081,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/121d.html"]
+    ,"maisuu":["1/1"]
 },
 "原動機実習室": {
     "pos": [
@@ -1934,6 +2094,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/121d.html"]
+    ,"maisuu":["1/1"]
 },
 "会議室": {
     "pos": [
@@ -1946,6 +2107,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/122d.html"]
+    ,"maisuu":["1/1"]
 },
 "会議": {
     "pos": [
@@ -1958,6 +2120,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/122d.html"]
+    ,"maisuu":["1/1"]
 },
 "応接室": {
     "pos": [
@@ -1970,6 +2133,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/125d.html"]
+    ,"maisuu":["1/1"]
 },
 "食堂": {
     "pos": [
@@ -1982,6 +2146,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/128d.html"]
+    ,"maisuu":["1/1"]
 },
 "微生物実験室": {
     "pos": [
@@ -1994,6 +2159,7 @@ data={
         0
     ],
     "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/131d.html"]
+    ,"maisuu":["1/1"]
 },
 "微生物実験準備室": {
     "pos": [
@@ -2006,6 +2172,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/132d.html"]
+    ,"maisuu":["1/1"]
 },
 "菌株保存室": {
     "pos": [
@@ -2018,6 +2185,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/132d.html"]
+    ,"maisuu":["1/1"]
 },
 "画像解析室": {
     "pos": [
@@ -2030,6 +2198,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/133d.html"]
+    ,"maisuu":["1/1"]
 },
 "資料閲覧室": {
     "pos": [
@@ -2042,6 +2211,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/134d.html"]
+    ,"maisuu":["1/1"]
 },
 "分析化学準備室": {
     "pos": [
@@ -2054,6 +2224,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/142d.html"]
+    ,"maisuu":["1/1"]
 },
 "分析化学実験室": {
     "pos": [
@@ -2066,6 +2237,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/142d.html"]
+    ,"maisuu":["1/1"]
 },
 "生物工学実験準備室": {
     "pos": [
@@ -2078,6 +2250,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/143d.html"]
+    ,"maisuu":["1/1"]
 },
 "生物工学実験室": {
     "pos": [
@@ -2090,6 +2263,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/144d.html"]
+    ,"maisuu":["1/1"]
 },
 "中庭": {
     "pos": [
@@ -2102,6 +2276,7 @@ data={
         0
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/191d.html"]
+    ,"maisuu":["1/1"]
 },
 "一般学習室1": {
   "pos": [
@@ -2112,6 +2287,7 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  ,"maisuu":["1/1"]
 },
 "一般学習室2": {
   "pos": [
@@ -2122,6 +2298,7 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  ,"maisuu":["1/1"]
 },
 "一般学習室3": {
   "pos": [
@@ -2132,6 +2309,7 @@ data={
   ],
   "floor":[1],
    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+   ,"maisuu":["1/1"]
 },
 "一般学習室4": {
   "pos": [
@@ -2142,6 +2320,7 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  ,"maisuu":["1/1"]
 },
 "一般学習室5": {
   "pos": [
@@ -2152,6 +2331,7 @@ data={
   ],
   "floor":[1],
    "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+   ,"maisuu":["1/1"]
 },
 "一般学習室6": {
   "pos": [
@@ -2162,6 +2342,7 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+  ,"maisuu":["1/1"]
 },
 "選択学習室1": {
   "pos": [
@@ -2172,6 +2353,7 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+  ,"maisuu":["1/1"]
 },
 "選択学習室2": {
   "pos": [
@@ -2182,6 +2364,7 @@ data={
   ],
   "floor":[1],
   "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+  ,"maisuu":["1/1"]
 },
 "図書室": {
     "pos": [
@@ -2194,6 +2377,7 @@ data={
         1
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/209d.html"]
+    ,"maisuu":["1/1"]
 },
 "製図室": {
     "pos": [
@@ -2206,6 +2390,7 @@ data={
         1
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/214d.html"]
+    ,"maisuu":["1/1"]
 },
 "CAD室1": {
         "pos": [
@@ -2218,6 +2403,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/216d.html"]
+        ,"maisuu":["1/1"]
     },
     "cad室1": {
         "pos": [
@@ -2230,6 +2416,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/216d.html"]
+        ,"maisuu":["1/1"]
     },
     "CAD室2": {
         "pos": [
@@ -2242,6 +2429,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/217d.html"]
+        ,"maisuu":["1/1"]
     },
     "cad室2": {
         "pos": [
@@ -2254,6 +2442,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/217d.html"]
+        ,"maisuu":["1/1"]
     },
     "機械関係資料閲覧室": {
         "pos": [
@@ -2266,6 +2455,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/218d.html"]
+        ,"maisuu":["1/1"]
     },
     "自動制御実習室": {
         "pos": [
@@ -2278,6 +2468,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/222d.html"]
+        ,"maisuu":["1/1"]
     },
     "ロボット・FA準備室": {
         "pos": [
@@ -2290,6 +2481,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/222d.html"]
+        ,"maisuu":["1/1"]
     },
     "基礎分析実習室": {
         "pos": [
@@ -2302,6 +2494,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/227d.html"]
+        ,"maisuu":["1/1"]
     },
     "環境計測実習室": {
         "pos": [
@@ -2314,6 +2507,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/229d.html"]
+        ,"maisuu":["1/1"]
     },
     "物理計測実習室": {
         "pos": [
@@ -2326,6 +2520,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/231d.html"]
+        ,"maisuu":["1/1"]
     },
     "物理計測準備室": {
         "pos": [
@@ -2338,6 +2533,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/231d.html"]
+        ,"maisuu":["1/1"]
     },
     "化学計測実習室": {
         "pos": [
@@ -2350,6 +2546,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/233d.html"]
+        ,"maisuu":["1/1"]
     },
     "化学計測準備室": {
         "pos": [
@@ -2362,6 +2559,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/233d.html"]
+        ,"maisuu":["1/1"]
     },
     "環境工学実習室": {
         "pos": [
@@ -2374,6 +2572,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/237d.html"]
+        ,"maisuu":["1/1"]
     },
     "環境工学準備室": {
         "pos": [
@@ -2386,6 +2585,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/237d.html"]
+        ,"maisuu":["1/1"]
     },
     "ロッカースペース": {
         "pos": [
@@ -2398,6 +2598,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/locker_zennichi.html"]
+        ,"maisuu":["1/1"]
     },
     "ロッカースペース（全日制）": {
         "pos": [
@@ -2410,6 +2611,7 @@ data={
             1
         ],
         "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/locker_zennichi.html"]
+        ,"maisuu":["1/1"]
     },
     "一般学習室7": {
       "pos": [
@@ -2422,6 +2624,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室8": {
       "pos": [
@@ -2434,6 +2637,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室9": {
       "pos": [
@@ -2446,6 +2650,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室10": {
       "pos": [
@@ -2458,6 +2663,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室11": {
       "pos": [
@@ -2470,6 +2676,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室1212": {
       "pos": [
@@ -2482,6 +2689,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "選択学習室3": {
       "pos": [
@@ -2494,6 +2702,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "選択学習室4": {
       "pos": [
@@ -2506,6 +2715,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "CALL教室": {
     "pos": [
@@ -2518,6 +2728,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/310d.html"]
+    ,"maisuu":["1/1"]
 },
 "call教室": {
     "pos": [
@@ -2530,6 +2741,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/310d.html"]
+    ,"maisuu":["1/1"]
 },
 "情報基礎コンピューター室": {
     "pos": [
@@ -2542,6 +2754,7 @@ data={
         2
     ],
     "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/311d.html"]
+    ,"maisuu":["1/1"]
 },
 "進路指導室2": {
       "pos": [
@@ -2554,6 +2767,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/314d.html"]
+      ,"maisuu":["1/1"]
   },
   "ガイダンスルーム": {
       "pos": [
@@ -2566,6 +2780,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/314d.html"]
+      ,"maisuu":["1/1"]
   },
   "電気計測室": {
       "pos": [
@@ -2578,6 +2793,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/316d.html"]
+      ,"maisuu":["1/1"]
   },
   "プリント基盤加工室": {
       "pos": [
@@ -2590,6 +2806,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/317d.html"]
+      ,"maisuu":["1/1"]
   },
   "電子工作室": {
       "pos": [
@@ -2602,6 +2819,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/322d.html"]
+      ,"maisuu":["1/1"]
   },
   "放送室": {
     "pos": [
@@ -2614,6 +2832,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/324d.html"]
+    ,"maisuu":["1/1"]
 },
 "社会科学習室": {
     "pos": [
@@ -2626,6 +2845,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/326d.html"]
+    ,"maisuu":["1/1"]
 },
 "物理基礎実験室": {
     "pos": [
@@ -2638,6 +2858,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/327d.html"]
+    ,"maisuu":["1/1"]
 },
 "力学実験実習室": {
     "pos": [
@@ -2650,6 +2871,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/329d.html"]
+    ,"maisuu":["1/1"]
 },
 "宇宙通信実習室": {
       "pos": [
@@ -2662,6 +2884,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/330d.html"]
+      ,"maisuu":["1/1"]
   },
   "地球科学実験室": {
       "pos": [
@@ -2674,6 +2897,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/332d.html"]
+      ,"maisuu":["1/1"]
   },
   "宇宙工学実習室": {
     "pos": [
@@ -2686,6 +2910,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/333d.html"]
+    ,"maisuu":["1/1"]
 },
 "宇宙工学資料室": {
     "pos": [
@@ -2698,6 +2923,7 @@ data={
         2
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/333d.html"]
+    ,"maisuu":["1/1"]
 },
 "生命基礎実習室": {
       "pos": [
@@ -2710,6 +2936,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/336d.html"]
+      ,"maisuu":["1/1"]
   },
   "美術室": {
       "pos": [
@@ -2722,6 +2949,7 @@ data={
           2
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/338d.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室13": {
       "pos": [
@@ -2734,6 +2962,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室14": {
       "pos": [
@@ -2746,6 +2975,7 @@ data={
           3
       ],
       "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室15": {
       "pos": [
@@ -2758,6 +2988,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室16": {
       "pos": [
@@ -2770,6 +3001,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室17": {
       "pos": [
@@ -2782,6 +3014,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "一般学習室18": {
       "pos": [
@@ -2794,6 +3027,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_1-6.html"]
+      ,"maisuu":["1/1"]
   },
   "選択学習室5": {
       "pos": [
@@ -2806,6 +3040,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "選択学習室6": {
       "pos": [
@@ -2818,6 +3053,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/nomal_classroom_7-8.html"]
+      ,"maisuu":["1/1"]
   },
   "外国語実習室": {
       "pos": [
@@ -2830,6 +3066,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/410d.html"]
+      ,"maisuu":["1/1"]
   },
   "マルチメディア実習室": {
       "pos": [
@@ -2842,6 +3079,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/411d.html"]
+      ,"maisuu":["1/1"]
   },
   "ネットワーク通信実習室": {
       "pos": [
@@ -2854,6 +3092,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/412d.html"]
+      ,"maisuu":["1/1"]
   },
   "プログラム実習室": {
       "pos": [
@@ -2866,6 +3105,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/413d.html"]
+      ,"maisuu":["1/1"]
   },
   "無響室": {
       "pos": [
@@ -2878,6 +3118,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/417d.html"]
+      ,"maisuu":["1/1"]
   },
   "論理回路実習室": {
       "pos": [
@@ -2890,6 +3131,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/419d.html"]
+      ,"maisuu":["1/1"]
   },
   "情報システム工学第1実験室": {
       "pos": [
@@ -2902,6 +3144,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/420d.html"]
+      ,"maisuu":["1/1"]
   },
   "情報システム工学第2実験室": {
       "pos": [
@@ -2914,6 +3157,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/421d.html"]
+      ,"maisuu":["1/1"]
   },
   "情報システム工学第3実験室": {
       "pos": [
@@ -2926,6 +3170,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/422d.html"]
+      ,"maisuu":["1/1"]
   },
   "自習室": {
       "pos": [
@@ -2938,6 +3183,7 @@ data={
           3
       ],
       "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/423d.html"]
+      ,"maisuu":["1/1"]
   },
   "書道室": {
     "pos": [
@@ -2950,6 +3196,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/424d.html"]
+    ,"maisuu":["1/1"]
 },
 "気象大気観測室": {
     "pos": [
@@ -2962,6 +3209,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/425d.html"]
+    ,"maisuu":["1/1"]
 },
 "作法室": {
     "pos": [
@@ -2974,6 +3222,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/426d.html"]
+    ,"maisuu":["1/1"]
 },
 "調理室": {
     "pos": [
@@ -2986,6 +3235,7 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/427d.html"]
+    ,"maisuu":["1/1"]
 },
 "被服室": {
     "pos": [
@@ -2998,6 +3248,7 @@ data={
         3
     ],
     "3dimg":["https://lisanavi.github.io/archive/360img/3dhtml/429d.html"]
+    ,"maisuu":["1/1"]
 },
 "音楽室": {
     "pos": [
@@ -3010,5 +3261,6 @@ data={
         3
     ],
     "3dimg": ["https://lisanavi.github.io/archive/360img/3dhtml/430d.html"]
+    ,"maisuu":["1/1"]
 },
  };
